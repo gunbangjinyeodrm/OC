@@ -1,0 +1,212 @@
+= ОС
+
+
+== Унификация
+
+
+== По архитектуре компьютера
+
+
+== Windows (x86/x64) https://support.microsoft.com/en-gb/topic/determine-whether-your-computer-is-running-a-32-bit-version-or-64-bit-version-of-the-windows-operating-system-1b03ca69-ac5e-4b04-827b-c0c47145944b
+
+
+== Linux ( x86, x64, ARM, MIPS) https://ru.wikipedia.org/wiki/Linux#:~:text=Linux%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20%D0%BD%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2,%C2%AB%D0%AD%D0%BB%D1%8C%D0%B1%D1%80%D1%83%D1%81%C2%BB%20%D0%B8%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D1%85%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85.
+
+
+== По производительности
+
+
+== По целевому значению
+
+
+== Архитектурные решения
+
+
+== Монолитная архитектура
+
+
+== Многоуровневая архитектура
+
+
+== Микроядерная архитектура
+
+
+== Экзоядерная архитектура
+
+
+== Виртуальная машина
+
+
+== Смешанная архитектура
+
+
+== По дисциплине обслуживания
+
+
+== Однопользовательские
+
+
+== Многопользовательские
+
+
+== Пакетные
+
+
+== С разделением времени
+
+
+== По поддержке процессов
+
+
+== Однозадачные
+
+
+== Многозадачные
+
+
+== По назначению
+
+
+=== 
+
+
+== ОС мейнфреймов
+
+
+== IBM z/OS https://www.ibm.com/products/zos
+
+
+== OS 2200 https://en.wikipedia.org/wiki/OS_2200
+
+
+== Серверные ОС
+
+
+== Microsoft Windows Server https://www.microsoft.com/en-us/windows-server
+
+
+== Linux (различные дистрибутивы: Ubuntu, Debian etc.) https://otus.ru/nest/post/1645/
+
+
+== Многопроцессорные ОС
+
+
+== Linux (с поддержкой SMP(Symmetric Multiprocessing)): Ubuntu, CentOS http://csaa.ru/mnogoprocessornye-operacionnye-sistemy/
+
+
+== Microsoft Windows Server (с поддержкой SMP): Windows Server 2016, Windows Server 2019 http://csaa.ru/mnogoprocessornye-operacionnye-sistemy/
+
+
+== ОС персональных компьютеров
+
+
+== Microsoft Windows https://en.wikipedia.org/wiki/Microsoft_Windows
+
+
+== macOS https://en.wikipedia.org/wiki/MacOS
+
+
+== ОС мобильных систем
+
+
+== Карманные персональные компьютеры
+
+
+== Windows CE (Windows Embedded Compact) https://en.wikipedia.org/wiki/Windows_Embedded_Compact
+
+
+== Windows Mobile https://en.wikipedia.org/wiki/Windows_Mobile
+
+
+== Планшеты
+
+
+== IOS https://www.apple.com/ios/ios-17/
+
+
+== Android https://www.android.com/
+
+
+== Коммуникаторы, смартфоны, телефоны
+
+
+== IOS https://www.apple.com/ios/ios-17/
+
+
+== Android https://www.android.com/
+
+
+== Встроенные ОС
+
+
+== FreeRTOS https://www.freertos.org/index.html
+
+
+== Micrium uC/OS https://www.silabs.com/developers/micrium
+
+
+== ОС сенсорных узлов
+
+
+== Contiki OS https://www.contiki-ng.org/
+
+
+== TinyOS http://www.tinyos.net/
+
+
+== ОС реального времени
+
+
+== 
+
+
+=== VxWorks https://www.windriver.com/products/vxworks
+
+
+=== 
+
+
+==== FreeRTOS https://www.freertos.org/index.html
+
+
+== По группе пользователей
+
+
+== Прикладные пользователи
+
+
+== 
+
+
+=== Microsoft Windows https://en.wikipedia.org/wiki/Microsoft_Windows
+
+
+== 
+
+
+=== macOS https://en.wikipedia.org/wiki/MacOS
+
+
+== Программисты
+
+
+== Linux (различные дистрибутивы: Ubuntu, Debian etc.) https://otus.ru/nest/post/1645/
+
+
+== 
+
+
+=== Microsoft Windows https://en.wikipedia.org/wiki/Microsoft_Windows
+
+
+== Системные администраторы
+
+
+== Linux (различные дистрибутивы: Ubuntu, Debian etc.) https://otus.ru/nest/post/1645/
+
+
+== 
+
+
+=== FreeBSD https://www.freebsd.org/
+
